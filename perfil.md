@@ -10,3 +10,6 @@ Este es mi proyecto
 - Diseñar la interfaz de usuario para la plataforma.
 - Implementar la lógica del sistema y la base de datos.
 - Realizar pruebas de funcionamiento con usuarios reales.s
+
+
+bl
