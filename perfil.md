@@ -4,9 +4,9 @@
 - **Carrera:** Analista de sistemas
 
 ## Proyecto de Cátedra
-Este es mi proyecto
+Mi proyecto es la realizacion de un sistema de gestion de un quiosco.
 
 ## Objetivos del Proyecto
-- Diseñar la interfaz de usuario para la plataforma.
+- Diseñar la interfaz del sistema.
 - Implementar la lógica del sistema y la base de datos.
-- Realizar pruebas de funcionamiento con usuarios reales.s
+- Realizar pruebas de funcionamiento con usuarios reales.
